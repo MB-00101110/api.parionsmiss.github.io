@@ -1,0 +1,244 @@
+{
+    "candidates": [
+        {
+            "firstName": "Camille",
+            "lastName": "Sedira",
+            "region": {
+                "name": "Alsace",
+                "keyword": "alsace"
+            }
+        },
+        {
+            "firstName": "Orianne",
+            "lastName": "Galvez-Soto",
+            "region": {
+                "name": "Aquitaine",
+                "keyword": "aquitaine"
+            }
+        },
+        {
+            "firstName": "Alissia",
+            "lastName": "Ladeveze",
+            "region": {
+                "name": "Auvergne",
+                "keyword": "auvergne"
+            }
+        },
+        {
+            "firstName": "Lara",
+            "lastName": "Lebretton",
+            "region": {
+                "name": "Bourgogne",
+                "keyword": "bourgogne"
+            }
+        },
+        {
+            "firstName": "Énora",
+            "lastName": "Moal",
+            "region": {
+                "name": "Bretagne",
+                "keyword": "bretagne"
+            }
+        },
+        {
+            "firstName": "Coraline",
+            "lastName": "Lerasle",
+            "region": {
+                "name": "Centre-Val de Loire",
+                "keyword": "centre"
+            }
+        },
+        {
+            "firstName": "Solène",
+            "lastName": "Scholer",
+            "region": {
+                "name": "Champagne-Ardenne",
+                "keyword": "champagne"
+            }
+        },
+        {
+            "firstName": "Orianne",
+            "lastName": "Meloni",
+            "region": {
+                "name": "Corse",
+                "keyword": "corse"
+            }
+        },
+        {
+            "firstName": "Flavy",
+            "lastName": "Barla",
+            "region": {
+                "name": "Côte d'Azur",
+                "keyword": "azur"
+            }
+        },
+        {
+            "firstName": "Marion",
+            "lastName": "Navarro",
+            "region": {
+                "name": "Franche-Comté",
+                "keyword": "franche"
+            }
+        },
+        {
+            "firstName": "Indira",
+            "lastName": "Ampiot",
+            "region": {
+                "name": "Guadeloupe",
+                "keyword": "guadeloupe"
+            }
+        },
+        {
+            "firstName": "Shaïna",
+            "lastName": "Robin",
+            "region": {
+                "name": "Guyane",
+                "keyword": "guiyane"
+            }
+        },
+        {
+            "firstName": "Adèle",
+            "lastName": "Bonnamour",
+            "region": {
+                "name": "Île-de-France",
+                "keyword": "france"
+            }
+        },
+        {
+            "firstName": "Cameron",
+            "lastName": "Valliere",
+            "region": {
+                "name": "Languedoc",
+                "keyword": "languedoc"
+            }
+        },
+        {
+            "firstName": "Salomé",
+            "lastName": "Maud",
+            "region": {
+                "name": "Limousin",
+                "keyword": "limousin"
+            }
+        },
+        {
+            "firstName": "Sarah",
+            "lastName": "Aoutar",
+            "region": {
+                "name": "Lorraine",
+                "keyword": "lorraine"
+            }
+        },
+        {
+            "firstName": "Axelle",
+            "lastName": "René",
+            "region": {
+                "name": "Martinique",
+                "keyword": "martinique"
+            }
+        },
+        {
+            "firstName": "Florence",
+            "lastName": "Demortier",
+            "region": {
+                "name": "Midi-Pyrénées",
+                "keyword": "midi"
+            }
+        },
+        {
+            "firstName": "Agathe",
+            "lastName": "Cauet",
+            "region": {
+                "name": "Nord-Pas-de-Calais",
+                "keyword": "calais"
+            }
+        },
+        {
+            "firstName": "Perrine",
+            "lastName": "Prunier",
+            "region": {
+                "name": "Normandie",
+                "keyword": "normandie"
+            }
+        },
+        {
+            "firstName": "Océane",
+            "lastName": "Le Goff",
+            "region": {
+                "name": "Nouvelle-Calédonie",
+                "keyword": "caledonie"
+            }
+        },
+        {
+            "firstName": "Emma",
+            "lastName": "Guibert",
+            "region": {
+                "name": "Pays de la Loire",
+                "keyword": "loire"
+            }
+        },
+        {
+            "firstName": "Bérénice",
+            "lastName": "Legendre",
+            "region": {
+                "name": "Picardie",
+                "keyword": "picardie"
+            }
+        },
+        {
+            "firstName": "Marine",
+            "lastName": "Paulais",
+            "region": {
+                "name": "Poitou-Charentes",
+                "keyword": "charente"
+            }
+        },
+        {
+            "firstName": "Chana",
+            "lastName": "Goyons",
+            "region": {
+                "name": "Provence",
+                "keyword": "provence"
+            }
+        },
+        {
+            "firstName": "Marion",
+            "lastName": "Marimoutou",
+            "region": {
+                "name": "Réunion",
+                "keyword": "reunion"
+            }
+        },
+        {
+            "firstName": "Camille",
+            "lastName": "Esther Coutin",
+            "region": {
+                "name": "Rhône-Alpes",
+                "keyword": "rhone"
+            }
+        },
+        {
+            "firstName": "Chiara",
+            "lastName": "Fontaine",
+            "region": {
+                "name": "Roussillon",
+                "keyword": "roussillon"
+            }
+        },
+        {
+            "firstName": "Inès",
+            "lastName": "Tessier",
+            "region": {
+                "name": "Saint-Barthelemy, Saint-Martin",
+                "keyword": "martin"
+            }
+        },
+        {
+            "firstName": "Herenui",
+            "lastName": "Tuheiava",
+            "region": {
+                "name": "Tahiti",
+                "keyword": "tahiti"
+            }
+        }
+    ]
+}
